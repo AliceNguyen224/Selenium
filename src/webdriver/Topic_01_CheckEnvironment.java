@@ -11,7 +11,6 @@ import org.testng.annotations.Test;
 public class Topic_01_CheckEnvironment {
 	WebDriver driver;
 	String projectPath = System.getProperty("user.dir");
-	String a ="AASF";
 
 	@BeforeClass
 	public void beforeClass() {
