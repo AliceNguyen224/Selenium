@@ -4,7 +4,7 @@ public class DataType {
 
 	public static void main(String[] args) {
 
-		// HW1
+		//---------------HW1-------------------
 		System.out.println("HW1");
 		int a = 6;
 		int b = 2;
@@ -18,14 +18,14 @@ public class DataType {
 		System.out.println("a*b=" + P3);
 		System.out.println("a/b=" + P4);
 
-		// HW2
+		//---------------HW2------------------
 		System.out.println("HW2");
 		double L = 7.5;
 		double W = 3.8;
 		double P = L * W;
 		System.out.println("The rectangular are is " + P);
 
-		// HW3
+		//---------------HW3-------------------
 		System.out.println("HW3");
 		String h = "Hello Automation Testing";
 		System.out.println(h);
