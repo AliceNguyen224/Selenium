@@ -31,13 +31,10 @@ public class Topic_01_CheckEnvironment {
 		
 	}
 
-	@Test
-	public void TC_03_() {
-		
-	}
-
 	@AfterClass
 	public void afterClass() {
 		driver.quit();
 	}
 }
+
+
